@@ -71,7 +71,7 @@ int main()
             break;
         
         default:
-            printf("Please type in S or A (capitalized)"); 
+            printf("Please type in either S or A \n "); 
             break; 
     }
 
